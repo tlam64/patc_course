@@ -1,0 +1,5 @@
+This line is create by programer a:
+   for i=0 to 100 
+     print i**2;
+
+-- The end --
